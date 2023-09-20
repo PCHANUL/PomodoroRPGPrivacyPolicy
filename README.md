@@ -1,5 +1,3 @@
-# PomodoroRPGPrivacyPolicy
-
 <h1>Privacy Policy of sprinter</h1>
 
 <p>sprinter operates the https://github.com/PCHANUL/PomodoroRPGPrivacyPolicy website, which provides the SERVICE.</p>
